@@ -22,3 +22,13 @@ h2{
   font-size: 32px;
   font-weight: bold;
 }
+
+h2.mid_title{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+p{
+  font-size: 14px;
+}
