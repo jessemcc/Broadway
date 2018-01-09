@@ -32,3 +32,19 @@ h2.mid_title{
 p{
   font-size: 14px;
 }
+
+#footer{
+  text-align: left;
+  background-color: dimgray;
+}
+
+p.copy{
+  font-size: 11px;
+  color: white;
+  float: left;
+}
+
+ul.bottom_nav{
+  float: left;
+  padding-left: 5px;
+}
