@@ -19,6 +19,14 @@ ul{
   list-style-type: none;
 }
 
+ul.tlist{
+  padding-right: 35px;
+}
+
+ul.blist{
+  padding-left: 86px;
+}
+
 li{
   padding: 6px;
 }
